@@ -248,8 +248,8 @@
                 android:id="@+id/textView11"
                 android:textSize="@dimen/h2"
                 android:layout_weight="1"
-                android:gravity="center_horizontal"
-                android:textColor="@color/text" />
+                android:textColor="@color/text"
+                android:gravity="center_horizontal" />
         </LinearLayout>
 
     </LinearLayout>
