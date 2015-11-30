@@ -247,9 +247,9 @@
                 android:text="@string/malaysia"
                 android:id="@+id/textView11"
                 android:textSize="@dimen/h2"
-                android:layout_weight="1"
                 android:textColor="@color/text"
-                android:gravity="center_horizontal" />
+                android:gravity="center_horizontal"
+                android:layout_weight="1" />
         </LinearLayout>
 
     </LinearLayout>
